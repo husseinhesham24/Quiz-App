@@ -1,6 +1,6 @@
 It is a quiz app has many questions and you say your answer by your voice
 
-<h1>Instrations<h1>
+<h1>Instrutions<h1>
 1- click on mic button below and say "start" to start the quiz 😃
 
 2- at every question read the question carefully and when you are decided the answer click on the mic button and say your answer 😃
