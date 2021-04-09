@@ -1,5 +1,3 @@
-It is a quiz app has many questions and you say your answer by your voice
-
 <h1>Instrutions<h1>
 <h3>1- click on mic button below and say "start" to start the quiz 😃
 
