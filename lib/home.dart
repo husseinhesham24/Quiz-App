@@ -126,27 +126,9 @@ class _HomeState extends State<Home> {
                       AnswerButton(op1, isQuizStarted, check_ans, screen_width),
                       AnswerButton(op2, isQuizStarted, check_ans, screen_width),
                       AnswerButton(op3, isQuizStarted, check_ans, screen_width),
-                      //AnswerButton(op4, isQuizStarted, check_ans, screen_width),
                     ],
                   ),
                   HeadingText("$score".toUpperCase()),
-
-                  // Padding(
-                  //   padding: const EdgeInsets.all(8.0),
-                  //   child: MaterialButton(
-                  //     onPressed: start_quiz,
-                  //     color: Colors.green[800],
-                  //     minWidth: screen_width,
-                  //     height: 50.0,
-                  //     child: Text(
-                  //       "$quiz_status",
-                  //       style: TextStyle(
-                  //         fontSize: 24.0,
-                  //         color: Colors.white,
-                  //       ),
-                  //     ),
-                  //   ),
-                  // ),
                 ],
               ),
             ],

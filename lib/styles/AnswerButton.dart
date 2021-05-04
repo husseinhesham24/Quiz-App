@@ -20,15 +20,6 @@ class AnswerButton extends StatelessWidget {
         color: Colors.lightBlue[800],
         height: 50.0,
         child: AnswerText("$optionText", screenWidth),
-        // child: Text(
-        //   "$optionText",
-        //   softWrap: true,
-        //   style: TextStyle(
-        //     fontSize: 24.0,
-        //     // fontWeight: FontWeight.w700,
-        //     color: Colors.white,
-        //   ),
-        // ),
       ),
     );
   }
